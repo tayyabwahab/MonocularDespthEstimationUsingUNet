@@ -95,7 +95,7 @@ The [NYU-DepthV2] (https://cs.nyu.edu/~fergus/datasets/nyu_depth_v2.html) consis
 
 ## Usage
 
-1. **Run the Jupyter Notebook**
+1. **How to run**
 
    Open the Jupyter notebook and execute the cells sequentially:
 
@@ -105,7 +105,8 @@ The [NYU-DepthV2] (https://cs.nyu.edu/~fergus/datasets/nyu_depth_v2.html) consis
 
    - Open the notebook file named `Depth_Estimation_UNety.ipynb`.
    - Set the paths to dataset.
-   - Run each cell one by one.
+   - Run each cell one by one. 
+   - The trained model can be downloaded from [here] (https://drive.google.com/file/d/1-5dt9Q4-bC-PD4oxneZmGNx_sjfcgeqw/view)
 
 2. **Adjust Parameters**
 
