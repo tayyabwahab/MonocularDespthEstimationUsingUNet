@@ -48,7 +48,7 @@ Ensure you have the following installed before running the project:
    Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone 
+   git clone https://github.com/tayyabwahab/MonocularDespthEstimationUsingUNet.git
    ```
 
 2. **Navigate to the Project Directory**
