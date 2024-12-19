@@ -87,7 +87,7 @@ Ensure you have the following installed before running the project:
 
 ## Dataset
 
-The [NYU-DepthV2] (https://cs.nyu.edu/~fergus/datasets/nyu_depth_v2.html) consists of sequence of images generated from the video from a variety of indoor scenes as recorded by both the RGB and Depth cameras. It contains 50,000+ sequence of labeled images out of which the model was trained on a subset of 10,000 images that are available [here] (https://drive.google.com/drive/u/2/folders/1p5PjjuzRzDvpL0X-li3agnJ_og-iod-7). 
+The [NYU-DepthV2](https://cs.nyu.edu/~fergus/datasets/nyu_depth_v2.html) consists of sequence of images generated from the video from a variety of indoor scenes as recorded by both the RGB and Depth cameras. It contains 50,000+ sequence of labeled images out of which the model was trained on a subset of 10,000 images that are available [here](https://drive.google.com/drive/u/2/folders/1p5PjjuzRzDvpL0X-li3agnJ_og-iod-7). 
 
 ---
 
@@ -106,7 +106,7 @@ The [NYU-DepthV2] (https://cs.nyu.edu/~fergus/datasets/nyu_depth_v2.html) consis
    - Open the notebook file named `Depth_Estimation_UNety.ipynb`.
    - Set the paths to dataset.
    - Run each cell one by one. 
-   - The trained model can be downloaded from [here] (https://drive.google.com/file/d/1-5dt9Q4-bC-PD4oxneZmGNx_sjfcgeqw/view)
+   - The trained model can be downloaded from [here](https://drive.google.com/file/d/1-5dt9Q4-bC-PD4oxneZmGNx_sjfcgeqw/view)
 
 2. **Adjust Parameters**
 
