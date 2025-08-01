@@ -1,8 +1,8 @@
 # Monocular Depth Estimation using Modified UNet
 
 MonocularDepthEstimationUsingUNet is a deep learning project that implements monocular depth estimation using a U-Net architecture. The model takes a single RGB image as input and predicts its corresponding depth map, enabling scene understanding from 2D images without stereo input.
----
 
+---
 ## Table of Contents
 
 1. [Overview](#overview)
